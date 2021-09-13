@@ -7,4 +7,4 @@ Qt 大概涉及 UI,音效，资源添加，定时器，动画，画家，基本�
 或者下面
 ！image(https://github.com/zhuxing666/Qt-CoinGame/blob/main/design%20sketch/QQ%E5%9B%BE%E7%89%8720210913202823.png)
 !image(https://github.com/zhuxing666/Qt-CoinGame/blob/main/design%20sketch/QQ%E5%9B%BE%E7%89%8720210913202845.png)
-!
+!image(https://github.com/zhuxing666/Qt-CoinGame/blob/main/design%20sketch/QQ%E5%9B%BE%E7%89%8720210913202906.png)
